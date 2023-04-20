@@ -1,3 +1,5 @@
 # WarProject
 
 HTML VE CSS İLE YAZILMIŞ RESPONSİVE YAPIDA BİR PROJE DENEMESİ.
+
+![](ArtOfWar.gif)
